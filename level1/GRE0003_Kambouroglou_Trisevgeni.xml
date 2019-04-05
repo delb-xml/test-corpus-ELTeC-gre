@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Η κυρά Tρισεύγενη</title>
+            <title>Ἡ κυρά Tρισεύγενη</title>
             <author>
                <persName>
                   <forename>Δημήτριος</forename>
@@ -25,10 +25,10 @@
             </respStmt>
             <respStmt>
                <resp>Text corrected by </resp>
-               <name xml:id="MS" type="encoder">
+               <name xml:id="ΑΜ" type="encoder">
                   <persName>
-                     <forename>Μαριάννα </forename>
-                     <surname> Συλίβριλη</surname>
+                     <forename>Αθηνά</forename>
+                     <surname>Μαρκοπούλου</surname>
                   </persName>
                </name>
             </respStmt>
@@ -38,40 +38,38 @@
                   <persName>
                      <forename>Άννα-Μαρία</forename>
                      <surname> Σιχάνη</surname>
-                     <date/>
                   </persName>
+                  <date when="2019-04-05"/>
                </name>
             </respStmt>
          </titleStmt>
          <extent>
             <measure unit="pages" quantity="7"> 7</measure>
-            <measure unit="words" quantity="1.408"> 1.408</measure>
+            <measure unit="words" quantity="1408"> 1408</measure>
          </extent>
          <publicationStmt>
-            <p>Incorporated into the ELTeC on <date when="2019-03-07"> 2019-03-07</date></p>
+            <p>Incorporated into the ELTeC on <date when="2019-04-07"> </date></p>
          </publicationStmt>
          <sourceDesc>
             <bibl type="copyText">
-               <title>Η κυρά Τρισεύγενη κι άλλα διηγήματα</title>
+               <title>Ἡ κυρά Τρισεύγενη κὶ ἂλλα διηγήματα</title>
                <editor>
                   <name>
                      <forename>Δημήτριος</forename>
                      <surname>Καμπούρογλου</surname>
                   </name>
                </editor>
-               <pubPlace>Αθήναι </pubPlace>
-               <publisher>Εκδοτική Εταιρία Γ.Παπαδημητρίου και Σία</publisher>
+               <pubPlace>Ἀθῆναι</pubPlace>
+               <publisher>Ἐκδοτική Ἑταιρία Γ.Παπαδημητρίου καὶ Σία</publisher>
                <date>n.d.</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
-
       <encodingDesc n="eltec-1">
          <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-
             <language ident="el-CA">Ελληνικά</language>
          </langUsage>
          <textDesc>
@@ -82,14 +80,14 @@
          </textDesc>
       </profileDesc>
       <revisionDesc status="published">
-         <change who="#AMS" when="2019-03-14">Initial TEI version.</change>
+         <change who="#AMS" when="2019-04-05">Initial TEI version.</change>
 
       </revisionDesc>
    </teiHeader>
    <text>
       <front>
          <div type="titlePage">
-            <p> Η κυρά Τρισεύγενη</p>
+            <p>Ἡ κυρά Τρισεύγενη</p>
          </div>
       </front>
       <body>
@@ -101,10 +99,10 @@
             Ἀγία γυναῖκα· Μὰ πάλι τῆς Παναγιᾶς δὲν ἦταν. </p>
          <p>Καὶ μιὰ φορά, τὴν ὥρα ποὺ τὸ ἀποτέλειων' ὁ γέρος καὶ τὸ ἀπόμαθεν ὁ ἔγγονος, τὸν ἀρώτησ'
             ὁ μικρός, ποὺ ἦταν περίεργος: γιὰ ποιὸν Ἄγιο εἶναι τὸ τροπὰρι, ὁ γέρος ἀγρίεψε τότες καὶ
-            τοῦ εἶπε σούτ ! κ ἔτσι ἀγριεμένος πέθανε. </p>
+            τοῦ εἶπε σούτ! κ ἔτσι ἀγριεμένος πέθανε. </p>
          <p>Στὴν Ἀθήνα τοὺς λέγανε Λύκους, μὰ καὶ τοὺς ἀρχαίους Λυκοδήμας Λύκους τοὺς λέγανε
             κ'ἐκείνους.</p>
-         <p>Ἔτσι ἦταν γραμμένος καὶ στὸ σκολειὸ ὁ Στεφανῆς, ὁ μόνος καὶ τελευταῖος ἀπὸ δαύτους :
+         <p>Ἔτσι ἦταν γραμμένος καὶ στὸ σκολειὸ ὁ Στεφανῆς, ὁ μόνος καὶ τελευταῖος ἀπὸ δαύτους:
             Στέφανος Λύκος. </p>
          <p>Τὸ σόϊ — ἂτυχο σόϊ — σ' αὐτὸν καὶ μόνον τώρα κρέμεται.</p>
          <p>Οἱ γονεῖς του εἶχαν πεθάνει, μαζὶ κ' οἱ δυό, στὸ τελευταῖο θανατικὸ ποὺ ρὴμαξε τὸν τόπο·
@@ -206,7 +204,7 @@
             προσευχῆς- καὶ νὰ δῇς, ποὺ στὰ τελευταῖα ἄκουσε καθαρὰ καὶ ξάστερα — μὰ πολὺ ξάστερα
             γιατὶ αὐτὸ τὸ φώναξε δυνατὰ ἡ Τρισεύγενη — τὰ περίεργα αὐτὰ λόγια: «γυμνούσθω τοῦ
             φυσικοῦ χιτῶνος ἡ ἀκαμπὴς ψυχή».</p>
-         <p> Τίποτες ἄλλο δὲν ἀκούστηκε πιά !</p>
+         <p>Τίποτες ἄλλο δὲν ἀκούστηκε πιά!</p>
       </body>
    </text>
 </TEI>
