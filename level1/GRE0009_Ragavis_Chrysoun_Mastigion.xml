@@ -1,50 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="file:/Users/anna-maria/Downloads/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="GR0009"
-   xml:lang="el">
-   <teiHeader>
+    xml:lang="el">
+    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Τὸ χρυσοῦν μαστίγιον</title>
             <author>
-               <persName>
-                  <forename>Ἀλέξανδρος Ρίζος</forename>
-                  <surname>Ραγκαβής</surname>
-               </persName>
+               Ἀλέξανδρος Ρίζος Ραγκαβής
             </author>
             <respStmt>
                <resp>Text encoded by </resp>
                <name xml:id="MS" type="encoder">
-                  <persName>
-                     <forename>Μαριάννα </forename>
-                     <surname> Συλίβριλη</surname>
-                  </persName>
+                  Μαριάννα Συλίβριλη
                </name>
             </respStmt>
             <respStmt>
                <resp>Text corrected by </resp>
                <name xml:id="VS" type="encoder">
-                  <persName>
-                     <forename>Βίβιαν </forename>
-                     <surname> Στάμου</surname>
-                  </persName>
+                  Βίβιαν Στάμου
                </name>
             </respStmt>
             <respStmt>
                <resp>Encoding correcting by</resp>
                <name xml:id="AMS" type="encoder">
-                  <persName>
-                     <forename>Άννα-Μαρία</forename>
-                     <surname> Σιχάνη</surname>
-                  </persName>
+                  Άννα-Μαρία Σιχάνη
                </name>
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="pages" quantity="30"> 30 </measure>
-            <measure unit="words" quantity="7957"> 7957</measure>
+            <measure unit="pages" > 30 </measure>
+            <measure unit="words" > 7957</measure>
          </extent>
          <publicationStmt>
             <p>Incorporated into the ELTeC on <date when="2019-04-05"/></p>
@@ -52,12 +38,9 @@
          <sourceDesc>
             <bibl type="copyText">
                <title>Ἑλληνικά Διηγήματα μετά τῶν συγγραφέων</title>
-               <editor>
-                  <name>
-                     <forename>Ἀλέξανδρος Ρίζος</forename>
-                     <surname>Ραγκαβής</surname>
-                  </name>
-               </editor>
+               <author>
+                 Ἀλέξανδρος Ρίζος Ραγκαβής
+               </author>
                <pubPlace>Ἐν Ἀθήναις</pubPlace>
                <publisher>Γεώργιος Κασδόνης</publisher>
                <date when="1896"/>
@@ -73,15 +56,15 @@
             <language ident="el-CA">Ελληνικά</language>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" key="Μ"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
             <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc status="published">
-         <change who="#AMS" when="2019-04-05">Initial TEI version.</change>
-
+      <revisionDesc >
+         <change when="2019-04-05">Initial TEI version.</change>
+          <change when="2019-09-15">further customisation and correction</change> 
       </revisionDesc>
    </teiHeader>
    <text>
