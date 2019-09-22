@@ -36,13 +36,13 @@
                 <p>Incorporated into the ELTeC on <date when="2019-04-05"/></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="copyText">
+                <bibl type="printEdition">
                     <title>Τὸ Ἑλληνικὸν Διήγημα: ἢτοι Ἀπάνθισμα Ἐκλεκτών Διηγημάτων τῆς Νεο-Ἑλληνικής
                         Λογοτεχνίας [Μετά γραμματολογικοῦ σημειώματος καὶ τῶν εἰκόνων τῶν
                         συγγραφέων]</title>
-                    <editor>
+                    <author>
                         Κωνσταντίνος Σκόκος
-                    </editor>
+                    </author>
                     <pubPlace>Ἐν Ἀθήναις</pubPlace>
                     <publisher>Ἰ. Δ. Κολλάρος</publisher>
                     <date when="1920"/>
@@ -60,7 +60,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
@@ -244,7 +244,7 @@
                 νόμισες πώς πέθανε κὰνας ὑπουργός; τς!... Ἐπιστάτης ἤταν ὁ ἂνθρωπος... φτωχὸς
                 ἂνθρωπος...</p>
             <p>Ὅ δεκανέας διαμαρτυρήθηκε :</p>
-            <p>—Μά, τού λόγου σου, κυρά μου, δὲ μου εἶπες τό πρωΐ πώς ὅτι ὁ μακαρίτης ἢτανε νοικοκύρης
+            <p>—Μά, τού λόγου σου, κυρά μου, δὲ μου εἶπες τό πρωΐ πώς ὅτι ὁ μακαρίτης ἢτανε νοικοκύρης
                 ὃπως πρέπει καὶ πώς ὃτι νά πάρω πίσω τὸ φτηνό μαξιλάρι...</p>
             <p>—Δικαίως του λόγου! τόν ἐκεραύνωσε ἡ γυναῖκα ἐκεῖνο δὲν ἣτανε μαξιλάρι, ἣτανε τσὸλι ! .
                 . .</p>
