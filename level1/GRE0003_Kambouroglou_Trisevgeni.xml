@@ -33,13 +33,13 @@
             </titleStmt>
             <extent>
                 <measure unit="pages"> 7</measure>
-                <measure unit="words" > 1408</measure>
+                <measure unit="words"> 1408</measure>
             </extent>
             <publicationStmt>
                 <p>Incorporated into the ELTeC on <date when="2019-04-07"> </date></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="copyText">
+                <bibl type="firstEdition">
                     <title>Ἡ κυρά Τρισεύγενη κὶ ἂλλα διηγήματα</title>
                     <author>
                        Δημήτριος Καμπούρογλου
@@ -60,7 +60,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
@@ -109,7 +109,7 @@
             <p>Μποροῦσε σὰν ἔπεφτε στὸ χέρι ἂλλου νὰ γίνῃ μεγάλο κακὸ μὲ δαύτην.</p>
             <p>Τὸ παλῃὸ καιρὸ ὅμως, ποὺ τὴν ἔδινε τὸ χέρι τῆς πολιτείας, κακούργημα δὲν ἦταν: μὰ τότες
                 βλέπεὶς λεγότανε κώνειον, δὲν λεγότανε μαγγοῦτα.</p>
-            <p>Στὸ κελὶ τῆς ἐκκλησιᾶς καθότανε ὁ παπᾶ - Νίκαντρος — καλόγερος ἦταν —καὶ σήμερα πρωΐ -
+            <p>Στὸ κελὶ τῆς ἐκκλησιᾶς καθότανε ὁ παπᾶ - Νίκαντρος — καλόγερος ἦταν —καὶ σήμερα πρωΐ -
                 πρωῒ θὰ καβαλλήκευε τὴ μούλα καὶ θὰ πήγαινε σ ἔνα ξωκκλῆσι νὰ κάνῃ λειτουργιά. Θὰ
                 γλεντοῦσαν κι' ὅλας κάτω ἀπ' τὸν πλάτανο καὶ δίπλα στὴ βρυσοῦλα τῆς ρεμματιᾶς καὶ νά,
                 ποὺ σ'ἕνα σακκοῦλι κρεμασμένο στὸ σαμάρι τοῦ μουλαριοῦ βρίσκεται μέσα ἕνα ἀρνάκι ποὺ
