@@ -36,13 +36,13 @@
             <p>Incorporated into the ELTeC on <date when="2019-04-05"/></p>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="copyText">
-               <title>Ἑλληνικά Διηγήματα μετά τῶν συγγραφέων</title>
+            <bibl type="firstEdition">
+               <title>Ἑλληνικά Διηγήματα μετά τῶν εικόνων τῶν συγγραφέων</title>
                <author>
-                 Ἀλέξανδρος Ρίζος Ραγκαβής
+                Γεώργιος Κασδόνης
                </author>
                <pubPlace>Ἐν Ἀθήναις</pubPlace>
-               <publisher>Γεώργιος Κασδόνης</publisher>
+               <publisher>Βιβλιοπωλείον της Εστίας</publisher>
                <date when="1896"/>
             </bibl>
          </sourceDesc>
@@ -58,7 +58,7 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
@@ -115,7 +115,7 @@
             μακρὰν τῆς πόλεως.</p>
          <p>Εἷς δὲ μόνος νέος την ἡλικίαν, εὐειδὴς τὴν ὄψιν, ἔμενε τῶν ἄλλων μακράν, καὶ οὔτε μετὰ
             τῶν γυναικῶν διεσκέδαζεν, οὕτε εὶς τῶν άνδρῶν τὴν συνδιάλεξιν ἀνεμίγνυτο, ἀλλ᾿ ἐφαίνετο
-            ἔχων ἀλλαχοῦ ἠσχολημένον τὸ πνεῦμα, ἤ περιμένων τινά· διότι, ἐρειδόμενος εἰς μίαν τῶν
+            ἔχων ἀλλαχοῦ ἠσχολημένον τὸ πνεῦμα, ἤ περιμένων τινά· διότι, ἐρειδόμενος εἰς μίαν τῶν
             ἐπιχρύσων λυχνιῶν τῆς αἰθοὺσης, προσήλου τοὺς ὀφθαλμοὺς εἰς τὴν θύραν ἀναποσπάστως. Ὁ
             νέος οὗτος ἦν ὁ Ῥιχάρδος Δυβαλλών, γραμματεύς τοῦ πρωτοδικείου τῆς Ἀλγερίας.</p>
          <p>Ἀπέναντι δὲ τοῦ μέρους ὃπου οὗτος ἴστατο σύννους, ἐκάθητο μεταξὺ ἄλλων πολλῶν γυναικῶν
