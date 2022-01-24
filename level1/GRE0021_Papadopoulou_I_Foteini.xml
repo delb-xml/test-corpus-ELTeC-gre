@@ -4,8 +4,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Title - ELTeC edition</title>
-                <author> </author>
+                <title>Η Φωτεινή - Ο μαγευμένος εργαλειός - Η καλή Νεράιδα - ELTeC edition</title>
+                <author>Παπαδοπούλου,  Αρσινόης</author>
                 <respStmt>
                     <resp>Text encoded by </resp>
                     <name xml:id="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
@@ -20,15 +20,13 @@
                 </respStmt>
             </titleStmt>
             <extent>
-                <measure unit="pages"> </measure>
                 <measure unit="words"> 9000 </measure>
             </extent>
             <publicationStmt>
                 <p>Incorporated into the ELTeC on <date when="2020-12-30"/></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="copyText">
-                    <title/>
+                <bibl type="printSource">
                     <author> Αρσινόης Παπαδοπούλου, ΦΩΤΕΙΝΗ O ΜΑΓΕΥΜΕΝΟΣ ΕΡΓΑΛΕΙΟΣ Η ΚΑΛΗ ΝΕΡΑΪΔΑ </author>
                     <pubPlace>Αθήνα</pubPlace>
                     <publisher>Εκδότης Ιωάννης Δ. Κολλάρος, Βιβλιοπωλείον της Εστίας</publisher>

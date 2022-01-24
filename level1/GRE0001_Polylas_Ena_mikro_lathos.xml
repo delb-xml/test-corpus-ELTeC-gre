@@ -35,7 +35,7 @@
                 <p>Incorporated into the ELTeC on <date when="2019-04-05"/></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="printEdition">
+                <bibl type="printSource">
                     <title>Τὸ Ἑλληνικόν Διήγημα: ἤτοι Ἀπάνθισμα Ἐκλεκτών Διηγημάτων τῆς Νεο-Ἑλληνικής
                         Λογοτεχνίας [Μετά γραμματολογικοῦ σημειώματος καὶ τῶν εἰκόνων τῶν
                         συγγραφέων]</title>
@@ -70,7 +70,7 @@
     </teiHeader>
      <text>
       <front>
-         <div type="titlePage">
+         <div type="titlepage">
             <p>Ἕνα μικρό λάθος</p>
          </div>
       </front>

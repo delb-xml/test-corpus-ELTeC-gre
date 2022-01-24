@@ -27,7 +27,7 @@
                 <p>Incorporated into the ELTeC on <date when="2020-12-30"/></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="copyText">
+                <bibl type="printSource">
                     <title>Σκέψεις ενός ληστού ή η καταδίκη της κοινωνίας</title>
                     <author> Παπαρρηγόπουλος, Δημήτριος </author>
                     <pubPlace>Αθήνησι</pubPlace>
@@ -49,7 +49,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
             </textDesc>
         </profileDesc>

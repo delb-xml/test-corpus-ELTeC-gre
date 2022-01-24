@@ -23,13 +23,13 @@
             </titleStmt>
             <extent>
                 <measure unit="pages">7 </measure>
-                <measure unit="words"/>
+                <measure unit="words">1977</measure>
             </extent>
             <publicationStmt>
                 <p>Incorporated into the ELTeC on <date when="2020-12-30"/></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="printEdition">
+                <bibl type="printSource">
                     <title>Ημερολόγιον Σκόκου, έτος τέταρτον</title>
                     <author> Κωνσταντίνος Σκόκος </author>
                     <pubPlace>Ἀθήνα</pubPlace>
@@ -59,7 +59,7 @@
     </teiHeader>
     <text>
         <front>
-            <div type="titlePage">
+            <div type="titlepage">
                 <p>Σελίδες ἐκ του ἠμερολογίου μιας ἀσχήμου νεανίδος</p>
             </div>
         </front>

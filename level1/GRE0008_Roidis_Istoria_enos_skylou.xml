@@ -36,7 +36,7 @@
                 <p>Incorporated into the ELTeC on <date when="2019-04-05"/></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="printEdition">
+                <bibl type="printSource">
                     <title>Ἑλληνικά Διηγήματα μετά τῶν εικόνων τῶν συγγραφέων</title>
                     <author>
                       Γεώργιος Κασδόνης
@@ -70,7 +70,7 @@
     </teiHeader>
     <text>
         <front>
-            <div type="titlePage">
+            <div type="titlepage">
                 <p>Ἱστορία ἑνὸς σκύλου</p>
             </div>
         </front>
