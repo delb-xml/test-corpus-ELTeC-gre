@@ -11,19 +11,19 @@
             </author>
             <respStmt>
                <resp>Text encoded by </resp>
-               <name xml:id="MS" type="encoder">
+               <name n="MS" type="encoder">
                   Μαριάννα Συλίβριλη
                </name>
             </respStmt>
             <respStmt>
                <resp>Text corrected by </resp>
-               <name xml:id="VS" type="encoder">
+               <name n="VS" type="encoder">
                   Βίβιαν Στάμου
                </name>
             </respStmt>
             <respStmt>
                <resp>Encoding correcting by</resp>
-               <name xml:id="AMS" type="encoder">
+               <name n="AMS" type="encoder">
                   Άννα-Μαρία Σιχάνη
                </name>
             </respStmt>
@@ -58,7 +58,7 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
@@ -73,7 +73,7 @@
             <p>Τὸ χρυσοῦν μαστίγιον</p>
          </div>
       </front>
-      <body>
+      <body><div type='chapter'>
          <p>Εἰς τὰς ἀρχὰς τοῦ ἔτους 1841 ὁ στρατηγὸς Βυζῶδος ἐπανῆλθεν εἰς Ἀλγερίαν ὡς γενικὸς
             Διοικητὴς τῶν Γαλλικῶν κατακτήσεων. Ἀλλ᾿ ἐν τῷ διαστήματι τῆς ἀπουσίας του ἡ συνθήκη τῆς
             Τάφνης εἶχε φέρει τοὺς ἀπαισίους καρπούς της· ἡ ἀπερίσκεπτος ἐμπιστοσύνη παρήγαγε τὴν
@@ -769,6 +769,6 @@
          <p>Μετὰ δύω δ' ἡμέρας ἐπροκηρύχθη εἰς Ἀλγέριαν ὁ γάμος τοῦ Κ. Ῥιχάρδου Δυβαλλῶνος μετὰ τῆς
             Κυρίας Ἰουλίας Βωσσάν. Τὸ συμβόλαιον τοῦ γάμου ὑπέγραψεν ὁ στρατηγὸς Βυζῶδος. Δὲν λέγει
             δ' ἡ ἱστορία ἂν καὶ ὁ ὐπασπιστής του, κόμης Δὲ Λαφεριέρος, ἦν παρών εὶς τὴν τελετήν.</p>
-      </body>
+      </div></body>
    </text>
 </TEI>

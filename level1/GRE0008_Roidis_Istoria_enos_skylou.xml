@@ -11,19 +11,19 @@
                 </author>
                 <respStmt>
                     <resp>Text encoded by </resp>
-                    <name xml:id="MS" type="encoder">
+                    <name n="MS" type="encoder">
                         Μαριάννα Συλίβριλη
                     </name>
                 </respStmt>
                 <respStmt>
                     <resp>Text corrected by </resp>
-                    <name xml:id="VS" type="encoder">
+                    <name n="VS" type="encoder">
                         Βίβιαν Στάμου
                     </name>
                 </respStmt>
                 <respStmt>
                     <resp>Encoding correcting by</resp>
-                    <name xml:id="AMS" type="encoder">
+                    <name n="AMS" type="encoder">
                         Άννα-Μαρία Σιχάνη
                     </name>
                 </respStmt>
@@ -59,7 +59,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
@@ -74,7 +74,7 @@
                 <p>Ἱστορία ἑνὸς σκύλου</p>
             </div>
         </front>
-        <body>
+        <body><div type='chapter'>
             <p>ΩΣ νὰ ἦτο χθεσινὴ ἐνθυμοῦμαι τὴν ἤδη τεσσαρακονταετῆ τοῦ σκύλου ἐκείνου ἱστορίαν. Ἢμην
                 τότε μαθητὴς τῆς πρώτης τάξεως τοῦ ἑλληνικοῦ σχολείου εἰς τὸ έλληνοαμερικανικὸν Λύκειον
                 τοῦ μακαρίτου Χρήστου Εὐαγγελίδου. Ἐρχόμενος ἐξ Ἰταλίας δὲν εὐρέθην ὅσον ἐφοβούμην εἰς
@@ -279,6 +279,6 @@
                 πολλῶν μεταστάντων γνωρίμων μου εἶνε νά εὐρίσκεται ἐκεῖ ἡ ψυχὴ τοῦ καλοῦ ἐκείνου
                 σκύλου.</p>
             
-        </body>
+        </div></body>
     </text>
 </TEI>

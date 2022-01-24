@@ -8,15 +8,15 @@
                 <author>Παπαδοπούλου,  Αρσινόης</author>
                 <respStmt>
                     <resp>Text encoded by </resp>
-                    <name xml:id="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
+                    <name n="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
                 </respStmt>
                 <respStmt>
                     <resp>Text corrected by </resp>
-                    <name xml:id="AK" type="encoder"> Άννα Καραμπαλη </name>
+                    <name n="AK" type="encoder"> Άννα Καραμπαλη </name>
                 </respStmt>
                 <respStmt>
                     <resp>Encoding correcting by</resp>
-                    <name xml:id="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
+                    <name n="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
                 </respStmt>
             </titleStmt>
             <extent>
@@ -47,7 +47,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
@@ -57,7 +57,7 @@
         </revisionDesc>
     </teiHeader>
     <text>
-        <body>
+        <body><div type='chapter'>
             <p> ΑΦΙΕΡΟΥΤΑΙ ΕΙΣ ΤΗΝ ΑΥΤΗΣ ΥΨΗΛΟΤΗΤΑ ΤΗΝ ΒΑΣΙΛΟΠΑΙΔΑ ΕΛΕΝΗΝ 
                 
                 </p>
@@ -481,6 +481,6 @@
                 σωρὸς κάτω τὸ πάτωμα. Κάτω ἀπ' τὸ εἰκόνισμα, μητέρα καὶ κόρη ἀγκαλιάσθησαν καὶ
                 εὐχαρίστησαν τὸν Θεὸν διὰ τὴν ἀνέλπιστον χαράν. 
                  </p>
-        </body>
+        </div></body>
     </text>
 </TEI>

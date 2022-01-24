@@ -11,19 +11,19 @@
             </author>
             <respStmt>
                <resp>Text encoded by </resp>
-               <name xml:id="MS" type="encoder">
+               <name n="MS" type="encoder">
                   Μαριάννα Συλίβριλη
                </name>
             </respStmt>
             <respStmt>
                <resp>Text corrected by </resp>
-               <name xml:id="MS" type="encoder">
+               <name n="MS" type="encoder">
                Μαριάννα Συλίβριλη
                </name>
             </respStmt>
             <respStmt>
                <resp>Encoding correcting by</resp>
-               <name xml:id="AMS" type="encoder">
+               <name n="AMS" type="encoder">
                   Άννα-Μαρία Σιχάνη
                </name>
             </respStmt>
@@ -59,7 +59,7 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
@@ -74,7 +74,7 @@
             <p>Ἀνάμνησις</p>
          </div>
       </front>
-      <body>
+      <body><div type='chapter'>
          <p>Α'.</p>
          <p>Παρῆλθον ἒτη πολλὰ ἒκτοτε. Ἢμην νεώτατος, πρῶτον δὲ τότε ἐταξείδευα μόνος. Μετέβαινα εἰς
             Γαλλίαν διὰ τῆς Ἰταλίας. Κατ’ ἐκείνην τὴν ἐποχὴν τὰ ταξείδια ἦσαν δυσκολώτερα,
@@ -289,6 +289,6 @@
             ὀφθαλμῶν τὴν νεκροφὸρον λέμβον, μέχρις οὗ τὴν ἀπέκρυψαν παρὰ τὴν προκυμαίαν τὰ ἂλλα
             ἐντὸς τοῦ λιμένος πλοῖα.</p>
 
-      </body>
+      </div></body>
    </text>
 </TEI>

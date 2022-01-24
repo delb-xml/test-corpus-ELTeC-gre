@@ -10,15 +10,15 @@
                 <author> Εἰρήνη Λαχανᾶ </author>
                 <respStmt>
                     <resp>Text encoded by </resp>
-                    <name xml:id="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
+                    <name n="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
                 </respStmt>
                 <respStmt>
                     <resp>Text corrected by </resp>
-                    <name xml:id="AM" type="encoder"> Αθηνά Μαρκοπούλου </name>
+                    <name n="AM" type="encoder"> Αθηνά Μαρκοπούλου </name>
                 </respStmt>
                 <respStmt>
                     <resp>Encoding correcting by</resp>
-                    <name xml:id="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
+                    <name n="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
                 </respStmt>
             </titleStmt>
             <extent>
@@ -48,7 +48,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
@@ -63,7 +63,7 @@
                 <p>Σελίδες ἐκ του ἠμερολογίου μιας ἀσχήμου νεανίδος</p>
             </div>
         </front>
-        <body>
+        <body><div type='chapter'>
 
             <p> Τη 14 Νοεμβρίου 188....·—Πολὺ δύσθυμος ἐξύπνησα σήμερον. Εἶναι εἰσέτι βαρεῖα ἡ
                 κεφαλή μου ἐκ τῆς ζάλης τοῦ χθεσινοῦ χοροῦ. Τέλος παρῆλθε καὶ αὐτὴ ἡ δοκιμασία! Ναί!
@@ -211,6 +211,6 @@
                 ποτὲ νὰ ἦναί τις ἄσχημος, ἀπήντησεν ἐκεῖνος στρέφων πρὸς ἐμὲ τὸ πλῆρες εὐφυῖας καὶ
                 ἀγαθότητος βλέμμα του. Θεέ μου ! πόσῳ εὐτυχὴς εἶμαι σήμερον ! Ἐν Χαλκίδι. Ἰούλιος
                 1888. </p>
-        </body>
+        </div></body>
     </text>
 </TEI>

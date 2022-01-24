@@ -11,19 +11,19 @@
             </author>
             <respStmt>
                <resp>Text encoded by </resp>
-               <name xml:id="MS" type="encoder">
+               <name n="MS" type="encoder">
                   Μαριάννα Συλίβριλη
                </name>
             </respStmt>
             <respStmt>
                <resp>Text corrected by </resp>
-               <name xml:id="ΑΜ" type="encoder">
+               <name n="ΑΜ" type="encoder">
                   Αθηνά Μαρκοπούλου
                </name>
             </respStmt>
             <respStmt>
                <resp>Encoding correcting by</resp>
-               <name xml:id="AMS" type="encoder">
+               <name n="AMS" type="encoder">
                   Άννα-Μαρία Σιχάνη
                </name>
             </respStmt>
@@ -57,7 +57,7 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
@@ -74,7 +74,7 @@
          </div>
       </front>
 
-      <body>
+      <body><div type='chapter'>
          <p>Ὁ νέος νοικάρης ποῦ εἶχεν ἐνοικιάσει τὴν κάμαραν τὴν μεσανήν, κοντός, κυρτός, μεσόκοπος,
             εἶχεν ἕνα μεγάλο λαγοῦτο, μακρύ, πλατύ. Ἔκυπτε διὰ νὰ ξεκλειδώσῃ τὴν θύραν του, κρατῶν
             ὑπὸ μάλης τὸ λαγοῦτο, τὸ ὁποῖον ἔψαυε τὸ ἔδαφος.</p>
@@ -356,6 +356,6 @@
             εἶπεν ἀφελῶς μέσα του :</p>
          <p>—Ἄ ! ἦτον δασκάλα ! ... Γι' αὐτὸ εἶχε τοὺς κοκκόρους ! Σὲ κανένα Τμηματάρχη θὰ τοῦς
             κουβάλησε.</p>
-      </body>
+      </div></body>
    </text>
 </TEI>

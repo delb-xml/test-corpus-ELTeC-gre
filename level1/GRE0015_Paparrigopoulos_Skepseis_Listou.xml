@@ -8,15 +8,15 @@
                 <author> </author>
                 <respStmt>
                     <resp>Text encoded by </resp>
-                    <name xml:id="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
+                    <name n="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
                 </respStmt>
                 <respStmt>
                     <resp>Text corrected by </resp>
-                    <name xml:id="AM" type="encoder"> Αθηνά Μαρκοπούλου </name>
+                    <name n="AM" type="encoder"> Αθηνά Μαρκοπούλου </name>
                 </respStmt>
                 <respStmt>
                     <resp>Encoding correcting by</resp>
-                    <name xml:id="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
+                    <name n="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
                 </respStmt>
             </titleStmt>
             <extent>
@@ -49,7 +49,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
             </textDesc>
         </profileDesc>
@@ -59,7 +59,7 @@
         </revisionDesc>
     </teiHeader>
     <text>
-        <body>
+        <body><div type='chapter'>
             <p> Ἀναπνέων τὸν καθαρὸν ἀέρα τῶν ὀρέων καὶ μὴ κύπτων τὸν αὐχένα εἰς οὐδένα εἶμαι ἴσως ὁ
                 εὐτυχέστερος τῶν ἀνθρώπων. Καὶ ὄντως ἐντὸς τῆς κοινωνίας ἐὰν ἤμην καὶ τὸν αὐχένα θὰ
                 ἔκλινον εἰς τοὺς νόμους καὶ θὰ ἐμισούμην πρὸς τούτοις. Ἐντὸς δὲ τῆς φυλακῆς τῶν
@@ -527,6 +527,6 @@
                 πάλην· εἵμεθα χρηστοὶ καὶ ἐνάρετοι, σώφρονες καὶ φιλαλήθεις. Τί σεις; ἄνθρωποι τοῦ
                 δεκάτου ἐννάτου Μ. X. αἰῶνος· τί δ' ἡμεῖς; τῆς πρώτης μετὰ τὴν γένεσιν
                 ἐκατονταετηρίδας ΤΕΛΟΣ. </p>
-        </body>
+        </div></body>
     </text>
 </TEI>

@@ -11,19 +11,19 @@
                 </author>
                 <respStmt>
                     <resp>Text encoded by </resp>
-                    <name xml:id="MS" type="encoder">
+                    <name n="MS" type="encoder">
                         Μαριάννα  Συλίβριλη
                     </name>
                 </respStmt>
                 <respStmt>
                     <resp>Text corrected by </resp>
-                    <name xml:id="ΑΜ" type="encoder">
+                    <name n="ΑΜ" type="encoder">
                        Αθηνά Μαρκοπούλου
                     </name>
                 </respStmt>
                 <respStmt>
                     <resp>Encoding correcting by</resp>
-                    <name xml:id="AMS" type="encoder">
+                    <name n="AMS" type="encoder">
                         Άννα-Μαρία Σιχάνη
                     </name>
                 </respStmt>
@@ -58,7 +58,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
@@ -73,7 +73,7 @@
                 <p>Ὁ βρυκόλακας</p>
             </div>
         </front>
-        <body>
+        <body><div type='chapter'>
             <p>— Βρὲ τ' ἦταν τοῦτο! βρὲ τ' ἦταν τοῦτο! Πήγαινε νὰ χάσῃ τὸ μυαλό του ὁ κόσμος.</p>
             <p>Ὅλο τὸ χωριὸ, ἀχάραγο ἀκόμα, ἦταν ἀνάστατο. Παραδὲ στὴν Ἀπάνω Ροῦγα χάλαε ὁ κὸσμος. Ὅλοι
                 οἱ χωριανοὶ ἦταν στὸ πόδι. Ἂν ἦταν καὶ κανένας βάρυπνος, νὰ βαρυκοιμᾶται ἀκόμη, ξύπναε
@@ -237,6 +237,6 @@
             <p>—Νὰ, μοῦ λέει· ἐδῶ ἦταν ὁπάδιασε τὰ λουκάνικα στὸ σάβανό του ὁ βρυκόλακας. Ἀπόμειν'
                 ἀποτότε ἡ λαδιὰ καὶ δὲ βγαίνει! . .</p>
             <p>[ 1894 ].</p>
-        </body>
+        </div></body>
     </text>
 </TEI>

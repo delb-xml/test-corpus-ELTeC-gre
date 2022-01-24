@@ -12,7 +12,7 @@
                 </author>
                 <respStmt>
                     <resp>Text encoded by </resp>
-                    <name xml:id="MS" type="encoder">
+                    <name n="MS" type="encoder">
                         Μαριάννα Συλίβριλη
           
                     </name>
@@ -25,7 +25,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoding correcting by</resp>
-                    <name xml:id="AMS" type="encoder">
+                    <name n="AMS" type="encoder">
                         Άννα-Μαρία Σιχάνη
                         <date when="2019-04-05"/>
                     </name>
@@ -60,7 +60,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
@@ -75,7 +75,7 @@
                 <p>Ἡ κυρά Τρισεύγενη</p>
             </div>
         </front>
-        <body>
+        <body><div type='chapter'>
             <p>Παλῃότερη γενιὰ ἀπὸ τοὺς Λυκοδήμας δὲ γνώρισ' ὴ Ἀθήνα. Ἡ Σωτὴρα του Λυκοδήμου ἦταν ἡ
                 ἐκκλησία τους. Εἶχαν κ' ενα τροπάρι— ἄγραφο ἦταν —ποὺ μυστικὰ καὶ μουρμουριστά,
                 καταλάβαιναν δὲν καταλάβαιναν, τὤλεγαν καὶ τὸ παράδιν' ὁ γέρος ποὺ θἄφευγε ἀπ' τὸν
@@ -190,6 +190,6 @@
                 γιατὶ αὐτὸ τὸ φώναξε δυνατὰ ἡ Τρισεύγενη — τὰ περίεργα αὐτὰ λόγια: «γυμνούσθω τοῦ
                 φυσικοῦ χιτῶνος ἡ ἀκαμπὴς ψυχή».</p>
             <p>Τίποτες ἄλλο δὲν ἀκούστηκε πιά!</p>
-        </body>
+        </div></body>
     </text>
 </TEI>

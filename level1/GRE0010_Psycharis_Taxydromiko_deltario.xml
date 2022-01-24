@@ -11,19 +11,19 @@
             </author>
             <respStmt>
                <resp>Text encoded by </resp>
-               <name xml:id="MS" type="encoder">
+               <name n="MS" type="encoder">
                 Μαριάννα Συλίβριλη
                </name>
             </respStmt>
             <respStmt>
                <resp>Text corrected by </resp>
-               <name xml:id="MS" type="encoder">
+               <name n="MS" type="encoder">
                   Μαριάννα Συλίβριλη
                </name>
             </respStmt>
             <respStmt>
                <resp>Encoding correcting by</resp>
-               <name xml:id="AMS" type="encoder">
+               <name n="AMS" type="encoder">
                  Άννα-Μαρία Σιχάνη
                </name>
             </respStmt>
@@ -59,7 +59,7 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
@@ -74,7 +74,7 @@
             <p>Τό ταχυδρομικό δελτάριο</p>
          </div>
       </front>
-      <body>
+      <body><div type='chapter'>
          <p>Ἀφιερώνεται τοῦ Κ. Χατζόπουλου.</p>
          <p>Ἡ Μαρία-Λεωνή, σκυμμἐνη στὸ ἄσπρο ξύλινο τραπεζἀκι τῆς καμερίτσας της, στὸ σπιτἀκι τοῦ
             πατέρα της τοῦ μπάρμπα Μὰρκου, τοῦ μπαξεβάνη, ἔβαζε τὴ διέφτυση ὰπάνω σ' ἕνα
@@ -481,6 +481,6 @@
          <p>-«Ψυχή μου ἐσύ! Ψυγίτσα μου! Νά, πᾶρε πιὰ σήμερα καὶ τὸ δικό μου — ποὺ τὸ εἶχα ἕτοιμο,
             ποὺ ἢθελα νὰ σοῦ τὸ ἀφήσω σήμερα προτοῦ.... ἔρθῃς.» </p>
          <p>Καὶ φεγγογελώντας μέσα στὰ δάκρια, λιώσανε ὁ ἕνας στοῦ ἀλλουνοῦ τὴν ἀγκαλιά.</p>
-      </body>
+      </div></body>
    </text>
 </TEI>

@@ -11,19 +11,19 @@
             </author>
             <respStmt>
                <resp>Text encoded by </resp>
-               <name xml:id="MS" type="encoder">
+               <name n="MS" type="encoder">
                  Μαριάννα Συλίβριλη
                </name>
             </respStmt>
             <respStmt>
                <resp>Text corrected by </resp>
-               <name xml:id="AM" type="encoder">
+               <name n="AM" type="encoder">
                   Αθηνά Μαρκοπούλου
                </name>
             </respStmt>
             <respStmt>
                <resp>Encoding corrected by</resp>
-               <name xml:id="AMS" type="encoder">
+               <name n="AMS" type="encoder">
                   Άννα-Μαρία Σιχάνη
                </name>
             </respStmt>
@@ -59,7 +59,7 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
@@ -74,7 +74,7 @@
             <p>Ἀδαμαντίου Κοραῆ Βίος</p>
          </div>
       </front>
-      <body>
+      <body><div type='chapter'>
 
          <p>«Οὐ γάρ, ὡς σοὶ ἡδύ ἐστι τὸ τῶν σῶν κινδύνων</p>
          <p>»μεμνῆσθαι, οὕτω καὶ τοῖς ἄλλοις ἡδύ ἐστι τὸ</p>
@@ -538,6 +538,6 @@
             ἐπιγραφόμενα Ἄ τ α κ τ α εἰς δύο τόμους.</p>
          <p>ΑΔΑΜΑΝΤΙΟΣ ΚΟΡΑΗΣ ΧΙΟΣ ΥΠΟ ΞΕΝΗΝ ΜΕΝ ΙΣΑ ΔΕ ΤΗι ΦΥΣΑΣΗι Μ' ΕΛΛΑΔΙ ΠΕΦΙΛΗΜΕΝΗΝ ΓΗΝ ΤΩΝ
             ΠΑΡΙΣΙΩΝ ΚΕΙΜΑΙ</p>
-      </body>
+      </div></body>
    </text>
 </TEI>

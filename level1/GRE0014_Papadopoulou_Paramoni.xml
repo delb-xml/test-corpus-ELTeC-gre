@@ -8,15 +8,15 @@
                 <author> Αρσινόη Παπαδοπούλου </author>
                 <respStmt>
                     <resp>Text encoded by </resp>
-                    <name xml:id="MS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
+                    <name n="MS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
                 </respStmt>
                 <respStmt>
                     <resp>Text corrected by </resp>
-                    <name xml:id="MS" type="encoder"> Βίβιαν Στάμου </name>
+                    <name n="MS" type="encoder"> Βίβιαν Στάμου </name>
                 </respStmt>
                 <respStmt>
                     <resp>Encoding correcting by</resp>
-                    <name xml:id="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
+                    <name n="AMS" type="encoder"> Άννα-Μαρία Σιχάνη </name>
                 </respStmt>
             </titleStmt>
             <extent>
@@ -27,7 +27,7 @@
                 <p>Incorporated into the ELTeC on <date when="2020-12-30"/></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="copyText">
+                <bibl type="printSource">
                     <title>Αθηναϊκά Ανθύλλια</title>
                     <author> Αρσινόη Παπαδοπούλου </author>
                     <pubPlace>Εν Αθήναις</pubPlace>
@@ -50,7 +50,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
@@ -60,7 +60,7 @@
         </revisionDesc>
     </teiHeader>
     <text>
-        <body>
+        <body><div type='chapter'>
             <p> ΜΙΑΝ ἑσπέραν εἰς τὴν οἰκίαν τοῦ βουλευτοῦ X * * *, ἡ συνομιλία περιεστρέφετο κατὰ τὸ
                 σύνηθες ἀπὸ τῆς ἐπικειμένης διαλύσεως τῆς βουλῆς εἰς τούς νέους ἒκλογικοὺς
                 συνδυασμούς, δὲν ἐνθυμοῦμαι ὅμως, πῶς ἔτυχε νὰ καταντήσῃ καὶ εἰς συζήτησιν περὶ
@@ -773,6 +773,6 @@
                 λύπην, ὅποιος διασκεδάζει καὶ χαίρεται αὐτὸς ἔχει τὴν περισσότερη γνῶσι.
                 </p>
 
-        </body>
+        </div></body>
     </text>
 </TEI>

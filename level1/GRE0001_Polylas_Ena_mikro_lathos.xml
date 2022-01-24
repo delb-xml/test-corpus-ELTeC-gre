@@ -10,19 +10,19 @@
                 </author>
                 <respStmt>
                     <resp>Text encoded by </resp>
-                    <name xml:id="MS" type="encoder">
+                    <name n="MS" type="encoder">
                         Μαριάννα Συλίβριλη
                     </name>
                 </respStmt>
                 <respStmt>
                     <resp>Text corrected by </resp>
-                    <name xml:id="MS" type="encoder">
+                    <name n="MS" type="encoder">
                        Μαριάννα Συλίβριλη
                     </name>
                 </respStmt>
                 <respStmt>
                     <resp>Encoding correcting by</resp>
-                    <name xml:id="AMS" type="encoder">
+                    <name n="AMS" type="encoder">
                        Άννα-Μαρία Σιχάνη
                     </name>
                 </respStmt>
@@ -59,7 +59,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
@@ -74,7 +74,7 @@
             <p>Ἕνα μικρό λάθος</p>
          </div>
       </front>
-      <body>
+      <body><div type='chapter'>
          <p>o dignitosa consienza e bella</p>
          <p>conte te pierdal fallo amaro morso</p>
          <p>Dante purg. III. 7-8,</p>
@@ -435,7 +435,7 @@
             ἀναστεναγμὸς τῆς θαλάσσης. Ἡ Μαρία ὁλόρθη εἰς τὸν βράχον ἔβγαλε μέσ’ ἀπὸ τὸν κόρφον της
             τὸ γράμμα του παιδιοὺ της, τὸ ἐφιλησε καὶ ἔκαμε τρεῖς φοραὶς τὸν σταυρόν της· ἀκούσθη
             ἕνα τρελλὸ χασκόγελο, κ’ εὐθὺς κατόπι κάτω ἀπὸ τὸ ὀρθολίθι ἕνας βρόντος· τήν ἀκόλουθην
-            αὐγήν ψαράδες εῦρηκαν βγαλμένο εἰς τήν ἀμμουδιά τὸ σῶμα τῆς Μαρίας.</p>
+            αὐγήν ψαράδες εῦρηκαν βγαλμένο εἰς τήν ἀμμουδιά τὸ σῶμα τῆς Μαρίας.</p></div>
       </body>
    </text>
 </TEI>
